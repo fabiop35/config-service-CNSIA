@@ -1,0 +1,6 @@
+
+curl http://localhost:8888/catalog-service/default
+
+curl http://localhost:8888/catalog-service/prod
+
+
